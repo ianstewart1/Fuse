@@ -9,3 +9,9 @@ The idea for Fuse was to create an aggregator for social media accounts that wou
 Home                       |  ??
 :-------------------------:|:-------------------------:
 <img src="demo/home.png" height="500">  |  
+
+
+| Home | Add your own media | QR Reader | Pop up with peer account info |
+|------|--------------------|-----------|-------------------------------|
+|<img src="demo/home.png" height="500">|<img src="demo/addMedia.png" height="500">|<img src="demo/qrReader.png" height="500">|<img src="demo/qrPopUp.png" height="500">|   
+   
