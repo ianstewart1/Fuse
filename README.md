@@ -6,4 +6,6 @@ This project was done in a small group as the final project for my Mobile Softwa
 
 The idea for Fuse was to create an aggregator for social media accounts that would make it quite easy to follow/friend/add others on their social medias without the hassle of looking up their profiles on each social media platform.
 
-<img src="demo/home.png" height="500">
+Home                       |  ??
+:-------------------------:|:-------------------------:
+<img src="demo/home.png" height="500">  |  
